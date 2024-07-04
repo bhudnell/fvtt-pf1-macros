@@ -1,3 +1,7 @@
+// Allows the swapping of spirit spells when a shaman changes their wandering spirit
+// change spellbook variable to whatever you want the spirit spells spellbook to be
+// change fixed to whatever spirit was chosen at level 1
+
 if (canvas.tokens.controlled.length !== 1) {
   ui.notifications.error("only one token can be selected");
   return;
