@@ -1,3 +1,5 @@
+// opens a dialog to create a gloom blade weapon on the selected actor
+
 const abilityList = {
   def: 'Defending (+1)',
   flm: 'Flaming (+1)',
